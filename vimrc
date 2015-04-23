@@ -63,7 +63,7 @@ set autoindent
 set smartindent
 syntax on
 
-colorscheme slate
+"colorscheme slate
 " make the mouse works under screen :
 set ttymouse=xterm2
 set mouse=ar
